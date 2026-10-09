@@ -1,3 +1,0 @@
-C:/Users/cj/Desktop/Guided_dart_2027/build/CMakeFiles/Guided_dart_2027.elf.dir
-C:/Users/cj/Desktop/Guided_dart_2027/build/CMakeFiles/edit_cache.dir
-C:/Users/cj/Desktop/Guided_dart_2027/build/CMakeFiles/rebuild_cache.dir
