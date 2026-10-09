@@ -1,0 +1,29 @@
+# 固件和 CMake 构建输出
+/build/
+/out/
+/build-*/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/compile_commands.json
+**/.ninja_deps
+**/.ninja_log
+**/Makefile
+
+# 编译产物和调试中间文件
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.obj
+*.d
+*.exe
+*.pyc
+__pycache__/
+
+# 本地工具和临时文件
+*.log
+*.tmp
+*.user
+.vs/

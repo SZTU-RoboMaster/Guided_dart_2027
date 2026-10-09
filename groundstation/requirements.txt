@@ -1,0 +1,4 @@
+pyserial>=3.5
+numpy>=1.26
+matplotlib>=3.8
+pyinstaller>=6.0
